@@ -8,7 +8,7 @@ const Page = (props) => {
   return (
     <div className="page-container">
       <Helmet>
-        <title>exported project</title>
+        <title>Customer OTD</title>
         <meta property="og:title" content="exported project" />
       </Helmet>
       <div className="page-title-name-of-customer">
